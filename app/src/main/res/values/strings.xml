@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practicandoParcial2</string>
+    <string name="correoInput">correo</string>
+    <string name="contraInput">contraseña</string>
+</resources>
